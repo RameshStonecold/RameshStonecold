@@ -12,7 +12,7 @@ I'm passionate about building impactful software and always eager to collaborate
 - 💼 Java developer | A Software techie
 - 🌱 Currently working on demo project on Spring boot microservices end-to-end application with CICD -tools, Github workflows , Ui - Springboot Thymeleaf...  
 - 💡 Interests - Coding, Bloging, any new techonologies that will help my career to boost
-- 🌱 I’m currently learning DSA, Spring Boot Thyem
+- 🌱 I’m currently learning DSA, Spring Boot Thymleaf
 - 👯 I’m looking to collaborate on  ... 
 ---
 
