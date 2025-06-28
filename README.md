@@ -1,6 +1,6 @@
 
 
-# 👋 Hi there! I'm RameshStonecold
+# 👋 Hi there! I'm Ramesh Shakapurapu
 
 Welcome to my GitHub profile!  
 I'm passionate about building impactful software and always eager to collaborate with fellow developers and enthusiasts.
